@@ -26,11 +26,12 @@ df1
 ```p
 df.info()
 ```
-![image](https://github.com/user-attachments/assets/6285697c-2091-4fe2-ab1a-fff5464c84b7)
+![image](https://github.com/user-attachments/assets/5b07aac1-c506-44bb-b0f8-b7a9893888d9)
+
 ```
 df.describe
 ```
-![image](https://github.com/user-attachments/assets/8166701d-289c-42a8-9702-5c4a199d653c)
+![image](https://github.com/user-attachments/assets/e95bd9e6-cba5-499a-b9d4-a13c50fa4b13)
 
 ```p
 x=df1['age']
