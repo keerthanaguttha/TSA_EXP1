@@ -24,6 +24,15 @@ df1
 ```
 ![image](https://github.com/user-attachments/assets/582c0b95-a143-413a-8087-f10dbe939e8d)
 ```p
+df.info()
+```
+![image](https://github.com/user-attachments/assets/6285697c-2091-4fe2-ab1a-fff5464c84b7)
+```
+df.describe
+```
+![image](https://github.com/user-attachments/assets/8166701d-289c-42a8-9702-5c4a199d653c)
+
+```p
 x=df1['age']
 y=df1['duration']
 
