@@ -49,7 +49,7 @@ plt.show()
 # OUTPUT:
 ![image](https://github.com/user-attachments/assets/b5848d73-0a6f-41d1-bbb6-a6ee2c417916)
 
-
+It is Non-stationary data.
 
 # RESULT:
 Thus we have created the python code for plotting the time series of given data.
